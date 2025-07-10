@@ -1,0 +1,12 @@
+#color{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+#navbar{
+    height:50px;
+    width: 100%;
+    background-color: black;
+}

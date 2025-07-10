@@ -1,0 +1,13 @@
+#heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-family:"Times new roman";
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+
+/* For setting text-size we use font-size. */
